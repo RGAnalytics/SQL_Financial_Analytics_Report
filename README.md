@@ -1,5 +1,7 @@
 # SQL_Financial_Analytics_Report
-Generating financial report for Atliq hardware (Imaginary) as tasked by the product owner of the company.
+Generating financial report for Atliq hardware (Imaginary) as tasked by the product owner of the company. 
+
+Full documentation can be found here:https://www.notion.so/Atliq-Hardware-169f74a7e49d808da9c2c85a49781edc?pvs=4
 
 Generate a report of individual product sales (aggregated on a monthly basis at the product code level) for Croma India customers for fiscal year 2021.
 # Business Model
